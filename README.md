@@ -1,4 +1,8 @@
+## 🚀 Live Application
 
+Try the Customer Churn Prediction App here:
+
+[Click Here to Launch the App](https://customer-churn-prediction-qvfy4rxwuappcjglkdnayaw.streamlit.app/)
 # Customer Churn Prediction & Retention Analysis
 
 ## Project Overview
